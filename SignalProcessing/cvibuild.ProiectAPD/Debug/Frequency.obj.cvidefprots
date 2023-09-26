@@ -1,0 +1,16 @@
+[Define_Your_Functions_Here]
+Class="Function"
+Prototype="int Define_Your_Functions_Here(int x);"
+
+[onFreqPanelCB]
+Class="Function"
+Prototype="int onFreqPanelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[startTimerCB]
+Class="Function"
+Prototype="int startTimerCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[timerCB]
+Class="Function"
+Prototype="int timerCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+

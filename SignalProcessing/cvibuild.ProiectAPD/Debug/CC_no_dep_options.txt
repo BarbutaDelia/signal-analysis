@@ -1,0 +1,1 @@
+-force-include-file "Frequency.c";"c:\Users\Delia\Desktop\APD\Proiect\Frequency.c" -force-include-file "Frequency.h";"c:\Users\Delia\Desktop\APD\Proiect\Frequency.h" -force-include-file "ProiectAPD.c";"c:\Users\Delia\Desktop\APD\Proiect\ProiectAPD.c" -force-include-file "ProiectAPD.h";"c:\Users\Delia\Desktop\APD\Proiect\ProiectAPD.h" 

@@ -1,0 +1,48 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char **argv);"
+
+[OnLoadButtonCB]
+Class="Function"
+Prototype="int OnLoadButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[OnMainPanel]
+Class="Function"
+Prototype="int OnMainPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[applyCB]
+Class="Function"
+Prototype="int applyCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[applyAlphaCB]
+Class="Function"
+Prototype="int applyAlphaCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[prevCB]
+Class="Function"
+Prototype="int prevCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[nextCB]
+Class="Function"
+Prototype="int nextCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[histogramCB]
+Class="Function"
+Prototype="int histogramCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[saveCB]
+Class="Function"
+Prototype="int saveCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[envelopeCB]
+Class="Function"
+Prototype="int envelopeCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[derivativeCB]
+Class="Function"
+Prototype="int derivativeCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[switchPanelCB]
+Class="Function"
+Prototype="int switchPanelCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+

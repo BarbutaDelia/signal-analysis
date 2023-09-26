@@ -1,0 +1,258 @@
+[Workspace Header]
+Version = 1700
+Pathname = "/c/Users/Delia/Desktop/APD/Proiect/ProiectAPD.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2017"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2017"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "ProiectAPD.prj"
+Drag Bar Left = 160
+Window Top = 31
+Window Left = 22
+Window Bottom = 1044
+Window Right = 1291
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 9
+Window Confinement Region Enabled = True
+MainColumnWidth = 143
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1700
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path = "/c/Users/Delia/Desktop/APD/Proiect/Frequency.c"
+File Type = "CSource"
+Disk Date = 3724946815
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Z-Order = 2
+Source Window State = "1,286,286,286,70,82,82,0,0,80,0,128,0,0,0,25,261,0,286,80,349,683,1,21,"
+
+[File 0002]
+Path = "/c/Users/Delia/Desktop/APD/Proiect/ProiectAPD.c"
+File Type = "CSource"
+Disk Date = 3724662715
+In Projects = "1,"
+Window Top = 31
+Window Z-Order = 1
+Source Window State = "1,431,431,431,85,110,85,0,0,135,0,357,0,0,0,35,381,0,320,54,349,683,1,21,"
+
+[File 0003]
+Path = "/c/Users/Delia/Desktop/APD/Proiect/ProiectAPD.uir"
+File Type = "User Interface Resource"
+Disk Date = 3724863245
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Height = 349
+Window Width = 683
+Window Z-Order = 3
+
+[File 0004]
+Path = "/c/Users/Delia/Desktop/APD/Proiect/ProiectAPD.h"
+File Type = "Include"
+Disk Date = 3724863245
+In Projects = "1,"
+Window Top = 281
+Window Left = 138
+Window Z-Order = 4
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,0,0,0,0,349,683,1,0,"
+
+[File 0005]
+Path = "/c/Users/Delia/Desktop/APD/Proiect/Frequency.h"
+File Type = "Include"
+Disk Date = 3724333181
+In Projects = "1,"
+Window Top = 250
+Window Left = 122
+Window Z-Order = 6
+Source Window State = "1,0,43,0,0,0,0,0,0,80,0,0,0,0,0,25,9,0,19,125,349,683,1,0,"
+
+[File 0006]
+Path = "/c/Program Files (x86)/National Instruments/CVI2017/include/userint.h"
+File Type = "Include"
+Disk Date = 3573583200
+In Projects = ""
+Window Top = 157
+Window Left = 74
+Window Z-Order = 9
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,2362,0,2374,22,349,683,1,0,"
+
+[File 0007]
+Path = "/c/Users/Delia/Desktop/APD/apdM/proiect/wave.c"
+File Type = "CSource"
+Disk Date = 3693425506
+In Projects = ""
+Window Top = 157
+Window Left = 74
+Window Z-Order = 8
+Source Window State = "1,68,68,68,4,63,4,0,0,80,0,0,0,0,0,22,0,0,60,52,310,683,1,0,"
+
+[File 0008]
+Path = "/c/Users/Delia/Desktop/APD/apdM/proiect/frequency.c"
+File Type = "CSource"
+Disk Date = 3693419532
+In Projects = ""
+Window Top = 157
+Window Left = 74
+Window Z-Order = 5
+Source Window State = "1,424,424,424,34,57,57,0,0,80,0,0,0,0,0,22,435,6,454,65,310,683,1,0,"
+
+[File 0009]
+Path = "/c/Users/Delia/Desktop/APD/apdM/proiect/wave.uir"
+File Type = "User Interface Resource"
+Disk Date = 3721990365
+In Projects = ""
+Window Top = 33
+Window Left = 10
+Window Height = 310
+Window Width = 683
+Window Z-Order = 7
+
+[File 0010]
+Path = "/c/Users/Delia/Desktop/APD/Proiect/wafeInfo.txt"
+File Type = "Unknown"
+Disk Date = 3717504572
+In Projects = "1,"
+
+[File 0011]
+Path = "/c/Users/Delia/Desktop/APD/Proiect/waveData.txt"
+File Type = "Unknown"
+Disk Date = 3717504574
+In Projects = "1,"
+
+[Tab Order]
+Tab 0001 = "/c/Users/Delia/Desktop/APD/Proiect/ProiectAPD.uir"
+Tab 0002 = "/c/Users/Delia/Desktop/APD/Proiect/ProiectAPD.c"
+Tab 0003 = "/c/Users/Delia/Desktop/APD/Proiect/Frequency.c"
+Tab 0004 = "/c/Users/Delia/Desktop/APD/Proiect/Frequency.h"
+Tab 0005 = "/c/Program Files (x86)/National Instruments/CVI2017/include/userint.h"
+Tab 0006 = "/c/Users/Delia/Desktop/APD/apdM/proiect/wave.c"
+Tab 0007 = "/c/Users/Delia/Desktop/APD/apdM/proiect/frequency.c"
+Tab 0008 = "/c/Users/Delia/Desktop/APD/apdM/proiect/wave.uir"
+Tab 0009 = "/c/Users/Delia/Desktop/APD/Proiect/ProiectAPD.h"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
+[Watch 1]
+Watch Expression = "filterType"
+
+[Watch 2]
+Watch Expression = "filterType"
+
+[Watch 3]
+Watch Expression = "fileName"
+
